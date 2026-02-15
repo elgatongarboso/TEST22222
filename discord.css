@@ -43,7 +43,7 @@
   --text-normal: #fff;
   --text-default: #ddd;
   --text-muted: #aaa;
-  --text-link: #00b0f4;
+  --text-link: #f40000;
   --channels-default: #ddd;
   --interactive-normal: #bbb;
   --interactive-hover: #eee;
@@ -2020,4 +2020,5 @@ html.platform-osx .scroller-2TZvBN {
     opacity: 1;
     transform: translateY(0);
   }
+
 }
