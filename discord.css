@@ -482,19 +482,19 @@ textarea {
 #app-mount .item__88a69 .checkbox-1ix_J3.checked-1pZh2h {
   background: var(--text-normal) !important;
 }
-#app-mount .item__88a69[style*="rgb(114, 137, 218)"], #app-mount .item__88a69[aria-checked=true] {
+#app-mount .item__88a69[style*="rgb(218, 114, 114)"], #app-mount .item__88a69[aria-checked=true] {
   background: var(--gradient) !important;
 }
-#app-mount .item__88a69[style*="rgb(114, 137, 218)"] .checkbox-1ix_J3, #app-mount .item__88a69[aria-checked=true] .checkbox-1ix_J3 {
+#app-mount .item__88a69[style*="rgb(218, 114, 114)"] .checkbox-1ix_J3, #app-mount .item__88a69[aria-checked=true] .checkbox-1ix_J3 {
   background: var(--text-normal);
 }
-#app-mount .item__88a69[style*="rgb(114, 137, 218)"] polyline, #app-mount .item__88a69[aria-checked=true] polyline {
+#app-mount .item__88a69[style*="rgb(218, 114, 114)"] polyline, #app-mount .item__88a69[aria-checked=true] polyline {
   stroke: rgb(var(--gradient-primary));
 }
-#app-mount .item__88a69[style*="rgb(114, 137, 218)"]:has(> .radioBar__88a69[style*="--radio-bar-accent-color"]), #app-mount .item__88a69[aria-checked=true]:has(> .radioBar__88a69[style*="--radio-bar-accent-color"]) {
+#app-mount .item__88a69[style*="rgb(218, 114, 114)"]:has(> .radioBar__88a69[style*="--radio-bar-accent-color"]), #app-mount .item__88a69[aria-checked=true]:has(> .radioBar__88a69[style*="--radio-bar-accent-color"]) {
   background: transparent !important;
 }
-#app-mount .item__88a69[style*="rgb(114, 137, 218)"]:has(> .radioBar__88a69[style*="--radio-bar-accent-color"]) .radioBar__88a69, #app-mount .item__88a69[aria-checked=true]:has(> .radioBar__88a69[style*="--radio-bar-accent-color"]) .radioBar__88a69 {
+#app-mount .item__88a69[style*="rgb(218, 114, 114)"]:has(> .radioBar__88a69[style*="--radio-bar-accent-color"]) .radioBar__88a69, #app-mount .item__88a69[aria-checked=true]:has(> .radioBar__88a69[style*="--radio-bar-accent-color"]) .radioBar__88a69 {
   background: var(--radio-bar-accent-color);
 }
 #app-mount .item__88a69[style*="rgb(240, 71, 71)"] .checkbox-1ix_J3, #app-mount .item__88a69[style*="rgb(250, 166, 26)"] .checkbox-1ix_J3, #app-mount .item__88a69[style*="rgb(67, 181, 129)"] .checkbox-1ix_J3 {
@@ -2022,4 +2022,5 @@ html.platform-osx .scroller-2TZvBN {
   }
 
 }
+
 
