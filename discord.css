@@ -15,16 +15,7 @@
   --gradient-90: linear-gradient(var(--gradient-direction), rgb(var(--gradient-primary), 0.9), rgb(var(--gradient-secondary), 0.9));
   --text-shadow: 1;
   --chat-embed: var(--background-secondary);
-  --discord-green: 67, 181, 129;
-  --discord-yellow: 219, 171, 9;
-  --discord-red: 215, 58, 73;
-  --discord-purple: 89, 54, 149;
-  --discord-invisible: 117, 128, 142;
-  --discord-nitro: 255, 115, 250;
-  --discord-blurple: 218, 114, 114;
-  --discord-spotify: 29, 185, 84;
-  --discord-twitch: 89, 54, 149;
-  --discord-xbox: 16, 124, 16;
+
   --fb-popout-image: var(--popout-modal-image, var(--popout-image));
   --fb-popout-blur: var(--popout-modal-blur, var(--popout-image-blur));
   --fb-popout-size: var(--popout-modal-size, var(--popout-image-size));
